@@ -182,3 +182,6 @@ Uso libre para fines educativos.
 © 2026 Revista Digital PJ — Todos los derechos reservados.
 
 text
+
+
+Forzar despliegue inicial
