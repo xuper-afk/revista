@@ -6,11 +6,10 @@ Sistema de gestión de contenidos (CMS) para una publicación digital con **repo
 
 ## 👤 Autor
 
-- **Nombre:** [Tu nombre completo]
-- **Carrera:** [Tu carrera]
-- **Institución:** [Nombre de tu institución]
-- **Curso:** [Nombre del curso]
-- **Docente:** [Nombre del docente]
+- **Nombre:** pabel junior canal sayago
+- **Carrera:** ingenieria de sistemas
+- **Institución:** universidad andina del cusco
+- **Curso:** plataformas para el desarrolo 
 - **Año:** 2026
 
 ---
@@ -183,13 +182,3 @@ Uso libre para fines educativos.
 © 2026 Revista Digital PJ — Todos los derechos reservados.
 
 text
-
-**Dime tus datos y te lo dejo con todo rellenado:**
-
-- Nombre completo
-- Carrera
-- Institución
-- Curso
-- Docente
-
-O si prefieres, tú mismo editas lo que está entre `[...]` y ya está.
